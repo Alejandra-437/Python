@@ -1,0 +1,1 @@
+##intentar importar pygame y hacer que muestre un backroud y yn sprite.

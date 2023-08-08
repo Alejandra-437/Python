@@ -4,7 +4,7 @@ from Backgrounds import *
 
 window = display.set_mode((700, 500))
 display.set_caption("The first project")
-background = transform.scale(image.load("C:/Users/Alejandra Serrano/.vscode/extensions/algoritmika.algopython-20230717.191820.0/temp/Clase07-08-2023/Backgrounds/background.png"), (700, 500))
+background = transform.scale(image.load("C:/Users/Alejandra Serrano/.vscode/extensions/algoritmika.algopython-20230717.191820.0/temp/Python/Clase07-08-2023/Backgrounds/background.png"), (700, 500))
 # parámetros del primer objeto (cuadrado)
 height = 60
 width = 40
